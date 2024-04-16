@@ -1,6 +1,5 @@
 # Coffee Sales
 
-Introduction
 The file provides an analysis of coffee bag sales from 2019 to 2022, facilitating insights into sales patterns, customer behaviour, and market trends.
 
 Data Preparation and Cleaning
